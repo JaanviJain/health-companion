@@ -1,0 +1,24 @@
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python specific
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+
+# Ignore Node specific
+frontend/node_modules/
+frontend/build/
+
+# SECURITY - NEVER UPLOAD THESE
+.env
+backend/.env
+credentials.json
+backend/credentials.json
+token.json
+backend/token.json
+
+# Ignore temp files
+temp/
+backend/temp/
