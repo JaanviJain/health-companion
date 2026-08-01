@@ -26,7 +26,7 @@ Behind the scenes, we utilize a smart, **low-latency voice conversation pipeline
 **Our Solution:**
 * **Medical OCR:** Custom-trained OCR understands medical terminology.
 * **Structured Data:** Converts labs and prescriptions into searchable data (dates, values, reference ranges).
-* **Gemini Extraction:**Intelligently extracts diagnoses and doctor notes.
+* **Gemini Extraction:** Intelligently extracts diagnoses and doctor notes.
 
 ### 2. 📅 Timeline-Based Health View
 **The Problem:** Doctors struggle to find context in a mess of PDF files.
